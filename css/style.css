@@ -1,0 +1,38 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing:border-box;
+}
+  #container{
+	width:80%;
+	margin:auto;
+	background-color:rbg(233,165,63);
+	
+	}
+
+  #col{width:45%;
+  background-color:#dcdcdc;
+  }
+ 
+#bv{
+	 margin-left:200px;
+     margin-top:10px;
+	 height:100px;
+	 width:100%;
+	 }
+img{
+	border-radius:50%;
+	border:5px solid white}
+	
+h3{text-align:center;
+line-height:2;}
+
+
+	i{margin-left:200px;
+	line-height:2;}
+
+p{font-size:18px;
+text-align:center;
+line-height:1.5;
+font-weight:500px;}
+
